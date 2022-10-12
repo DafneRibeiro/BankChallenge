@@ -76,7 +76,10 @@ For test 9, I would like to check if printTransaction was called, but I couldn't
 I would go back to it after to fix it after I get my grade, or when I understand why it wouldn't work.
 
 
-
+Build with:
+---
+*Java Script
+*Jasmine as testing framework. 
 
 
 
