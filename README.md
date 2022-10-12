@@ -71,7 +71,7 @@ Following my previous tests, I will use the same approach to identify my transac
 
 For test 8, I check if all the transactions I created were stored properly in the array, using .length() to check if is equal to 3 (transactions).
 
-## important as I couldn't make it pass encountered an error I honestly couldn't fix
+## Encountered error : Important as I couldn't make it pass encountered an error I honestly couldn't fix
 For test 9, I would like to check if printTransaction was called, but I couldn't make it pass as it encounters an error when it reaches .reverse() on my statement, I am sure It would be better instead of leaving it commented off, take it off completely but I would like to show that I tried to do this test which I think it was important to add it.
 I would go back to it after to fix it after I get my grade, or when I understand why it wouldn't work.
 
