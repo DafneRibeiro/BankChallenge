@@ -28,18 +28,7 @@ date       || credit  || debit  || balance
 10/01/2012 || 1000.00 ||        || 1000.00
 ```
 
-#### Standard
 
-- [ ] Meets the spec
-- [ ] Developed test-first
-- [ ] Passes tests and code is linted
-- [ ] Encapsulates adding and storing Transactions in a class
-- [ ] Encapsulates Statement formatting in a class
-- [ ] Encapsulates Transaction data in a class
-
-#### Extended
-
-- [ ] See a coach!
 
 ################### Domain Modeling #####################
 
