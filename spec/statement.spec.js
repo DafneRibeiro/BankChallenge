@@ -16,22 +16,3 @@ describe(`Test 8`, () => {
 	});
 });
 
-// Test 9
-
-// describe(`Test 9`, () => {
-// 	it(`Test if printTransactions was called`, () => {
-// 		//arrange
-// 		const testPrintTransactions = {
-// 			printTransactions: () => {}
-// 		};
-
-// 		const statement = new Statement(testPrintTransactions);
-// 		const addSpy = spyOn(testPrintTransactions, `printTransactions`);
-
-// 		//act
-// 		statement.printTransactions();
-
-// 		//assert
-// 		expect(addSpy).toHaveBeenCalled();
-// 	});
-// });
